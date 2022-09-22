@@ -27,5 +27,5 @@ Podeu fer servir imatges rellevants
 ### Informació 
 ## JavaScript
 ### info
-## Visual Basic
+## SQL
 ### info
