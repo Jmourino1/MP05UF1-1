@@ -23,6 +23,7 @@ Podeu fer servir imatges rellevants
 
 ## Java
 Java va ser creat per *Sun MicroSystems* l'any **1991** com una eina de programació per ser usada en un projecte de set-top-box en una petita operació anomenada the *Green Project*. El seu equip de desenvolupament va treballar per més de 18 mesos fins a aconseguir alliberar la primera versió estable.
+
 Els seus principis bàsics són:
 - Sencill
 - Multifil
