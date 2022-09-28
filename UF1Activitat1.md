@@ -22,14 +22,32 @@ Intenteu ser una mica polits, i sobretot, doneu un repàs a les faltes d'ortogra
 Podeu fer servir imatges rellevants
 
 ## Java
+
+
+El llenguatge Java va ser desen en el seus inicis por **James Gosling** l
 Java va ser creat per *Sun MicroSystems* l'any **1991** com una eina de programació per ser usada en un projecte de set-top-box en una petita operació anomenada the *Green Project*. El seu equip de desenvolupament va treballar per més de 18 mesos fins a aconseguir alliberar la primera versió estable.
+
+Llenguatge de programació **orientada a objectes (POO)**: el programador pot generar fragments de codi autònom, que poden interactuar amb altres objectes, oferint suport a altres tecnologies.
+
+Com a curiositat, dir que no és clar l'origen del nom encara que es creu que es podria tractar de les inicials dels seus dissenyadors: James Gosling, Arthur Van Hoff, i Andy Bechtolsheim. La hipòtesi que té més força és la que Java deu el seu nom a un tipus de cafè disponible a la cafeteria propera; per això la icona de Java és una tassa de cafè calent.
 
 Els seus principis bàsics són:
 - Sencill
 - Multifil
 - Segur
 - Multiplataforma
-- 
+- Orientada a objects
+
+
+
+E
+
+Webgrafia
+
+https://ca.wikipedia.org/wiki/Java_(llenguatge_de_programaci%C3%B3)
+
+https://openwebinars.net/blog/que-es-java/
+
 
 
 ## Python
