@@ -23,7 +23,8 @@ Podeu fer servir imatges rellevants
 
 ## Java
 
-![Uploading java_1.png…]()
+<center>![image](https://user-images.githubusercontent.com/113586156/193155475-20592280-2fdc-4d8c-bae9-b7cd4e5ab96e.png)</center>
+
 
 El llenguatge Java va ser desenvolupar en el seus inicis por *Sun MicroSystems* dirigit per **James Gosling** l'any 1991, com una eina de programació per ser usada en un projecte de set-top-box en una petita operació anomenada the *Green Project*. El seu equip de desenvolupament va treballar per més de 18 mesos fins a aconseguir alliberar la primera versió estable.
 
