@@ -87,7 +87,7 @@ https://openwebinars.net/blog/que-es-java/
 
 https://javadesdecero.es/fundamentos/breve-historia-caracteristicas-y-aplicaciones/
 
-https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)
+https://geekflare.com/es/mejores-compiladores-ide-y-en-l%C3%ADnea-de-java/
 
 
 ## Python
@@ -117,6 +117,10 @@ Comentaris: la major part tenen subranques son actualitzacions i millorar el lle
 - SlickEdit
 - Thonny
 - Visual Studio
+- Atom
+- Spyder
+- Pyzo
+- ...Entre altres
 
 
 #### Webgrafia
@@ -125,6 +129,7 @@ https://www.redalyc.org/pdf/1815/181531232001.pdf
 
 https://openwebinars.net/blog/que-es-python/
 
+https://geekflare.com/es/mejor-ide-de-python/
 
 
 #### Exemple de codi
