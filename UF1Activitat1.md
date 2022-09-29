@@ -21,7 +21,7 @@ L’aspecte en un treball sempre és important.
 Intenteu ser una mica polits, i sobretot, doneu un repàs a les faltes d'ortografia.
 Podeu fer servir imatges rellevants
 
-## Java
+# Java
 
 ![image](https://user-images.githubusercontent.com/113586156/193156130-359e42b1-bd7c-4950-9011-b23d470bab3c.png)
 
@@ -92,7 +92,7 @@ https://javadesdecero.es/fundamentos/breve-historia-caracteristicas-y-aplicacion
 https://geekflare.com/es/mejores-compiladores-ide-y-en-l%C3%ADnea-de-java/
 
 
-## Python
+# Python
 
 Python va néixer a principis dels 90`s i, en un inici va ser desenvolupat com un hobby per Guido Van Rossum, un enginyer holandès que treballava en aquell moment al CWI d'Amsterdam, el Centre de Recerca de Ciències de la Computació holandès i com a curiositat el nom triat, Python, va ser pres del grup còmic britànic Monty Python, del qual Guido era un gran fan.
 
@@ -141,13 +141,13 @@ https://geekflare.com/es/mejor-ide-de-python/
 print ("hello world")
 ```
 
-## JavaScript
+# JavaScript
 #### Evolució (Versions)
 #### IDE's
 #### Webgrafia
 #### Exemple de codi
 
-## SQL
+# SQL
 #### Evolució (Versions)
 #### IDE's
 #### Webgrafia
