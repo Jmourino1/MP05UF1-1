@@ -23,12 +23,11 @@ Podeu fer servir imatges rellevants
 
 ## Java
 
-<center>![image](https://user-images.githubusercontent.com/113586156/193155475-20592280-2fdc-4d8c-bae9-b7cd4e5ab96e.png)</center>
-
+![image](https://user-images.githubusercontent.com/113586156/193156130-359e42b1-bd7c-4950-9011-b23d470bab3c.png)
 
 El llenguatge Java va ser desenvolupar en el seus inicis por *Sun MicroSystems* dirigit per **James Gosling** l'any 1991, com una eina de programació per ser usada en un projecte de set-top-box en una petita operació anomenada the *Green Project*. El seu equip de desenvolupament va treballar per més de 18 mesos fins a aconseguir alliberar la primera versió estable.
 
-Llenguatge de programació **orientada a objectes (POO)**: el programador pot generar fragments de codi autònom, que poden interactuar amb altres objectes, oferint suport a altres tecnologies.
+Llenguatge de programació **orientada a objectes (POO)**: el programador pot generar fragments de codi autònom, que poden interactuar amb altres objectes, oferint suport a altres tecnologies. Potser compilat e interpretat.
 
 Com a curiositat, dir que no és clar l'origen del nom encara que es creu que es podria tractar de les inicials dels seus dissenyadors: James Gosling, Arthur Van Hoff, i Andy Bechtolsheim. La hipòtesi que té més força és la que Java deu el seu nom a un tipus de cafè disponible a la cafeteria propera; per això la icona de Java és una tassa de cafè calent.
 
@@ -97,7 +96,8 @@ https://geekflare.com/es/mejores-compiladores-ide-y-en-l%C3%ADnea-de-java/
 
 Python va néixer a principis dels 90`s i, en un inici va ser desenvolupat com un hobby per Guido Van Rossum, un enginyer holandès que treballava en aquell moment al CWI d'Amsterdam, el Centre de Recerca de Ciències de la Computació holandès i com a curiositat el nom triat, Python, va ser pres del grup còmic britànic Monty Python, del qual Guido era un gran fan.
 
-És un llenguatge de programació versàtil multiplataforma i multiparadigma que es destaca pel codi llegible i net. Una de les raons del seu èxit és que compta amb una llicència de codi obert que permet la seva utilització a qualsevol escenari. Això fa que sigui un dels llenguatges diniciació de molts programadors.
+És un llenguatge de programació versàtil multiplataforma i multiparadigma que es destaca pel codi llegible i net. Una de les raons del seu èxit és que compta amb una llicència de codi obert que permet la seva utilització a qualsevol escenari. Això fa que sigui un dels llenguatges diniciació de molts programadors. Es un llenguatge interpretat.
+
 
 Els seus **principis bàscis**:
 - Es sencill i ràpid
