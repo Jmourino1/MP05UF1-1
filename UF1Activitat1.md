@@ -91,7 +91,9 @@ https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)
 
 
 ## Python
-### Informació 
+
+Python va néixer a principis dels 90`s i, en un inici va ser desenvolupat com un hobby per Guido Van Rossum, un enginyer holandès que treballava en aquell moment al CWI d'Amsterdam, el Centre de Recerca de Ciències de la Computació holandès i com a curiositat el nom triat, Python, va ser pres del grup còmic britànic Monty Python, del qual Guido era un gran fan.
+
 ## JavaScript
 ### info
 ## SQL
