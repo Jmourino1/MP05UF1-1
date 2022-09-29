@@ -23,6 +23,8 @@ Podeu fer servir imatges rellevants
 
 ## Java
 
+![Uploading java_1.png…]()
+
 El llenguatge Java va ser desenvolupar en el seus inicis por *Sun MicroSystems* dirigit per **James Gosling** l'any 1991, com una eina de programació per ser usada en un projecte de set-top-box en una petita operació anomenada the *Green Project*. El seu equip de desenvolupament va treballar per més de 18 mesos fins a aconseguir alliberar la primera versió estable.
 
 Llenguatge de programació **orientada a objectes (POO)**: el programador pot generar fragments de codi autònom, que poden interactuar amb altres objectes, oferint suport a altres tecnologies.
