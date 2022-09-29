@@ -29,7 +29,7 @@ Llenguatge de programació **orientada a objectes (POO)**: el programador pot ge
 
 Com a curiositat, dir que no és clar l'origen del nom encara que es creu que es podria tractar de les inicials dels seus dissenyadors: James Gosling, Arthur Van Hoff, i Andy Bechtolsheim. La hipòtesi que té més força és la que Java deu el seu nom a un tipus de cafè disponible a la cafeteria propera; per això la icona de Java és una tassa de cafè calent.
 
-Els seus principis bàsics són:
+Els seus **principis bàsics** són:
 - Sencill
 - Multifil
 - Segur
@@ -94,6 +94,19 @@ https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)
 
 Python va néixer a principis dels 90`s i, en un inici va ser desenvolupat com un hobby per Guido Van Rossum, un enginyer holandès que treballava en aquell moment al CWI d'Amsterdam, el Centre de Recerca de Ciències de la Computació holandès i com a curiositat el nom triat, Python, va ser pres del grup còmic britànic Monty Python, del qual Guido era un gran fan.
 
+És un llenguatge de programació versàtil multiplataforma i multiparadigma que es destaca pel codi llegible i net. Una de les raons del seu èxit és que compta amb una llicència de codi obert que permet la seva utilització a qualsevol escenari. Això fa que sigui un dels llenguatges diniciació de molts programadors.
+
+Els seus **principis bàscis**:
+- Es sencill
+- Elegant
+- Llegible
+- Permeteix estalviar molt de temps
+
+
+
+```
+print ("hello world")
+```
 ## JavaScript
 ### info
 ## SQL
