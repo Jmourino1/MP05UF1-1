@@ -97,18 +97,51 @@ Python va néixer a principis dels 90`s i, en un inici va ser desenvolupat com u
 És un llenguatge de programació versàtil multiplataforma i multiparadigma que es destaca pel codi llegible i net. Una de les raons del seu èxit és que compta amb una llicència de codi obert que permet la seva utilització a qualsevol escenari. Això fa que sigui un dels llenguatges diniciació de molts programadors.
 
 Els seus **principis bàscis**:
-- Es sencill
-- Elegant
-- Llegible
+- Es sencill i ràpid
+- Elegant i flexible
+- Ordenat i net
 - Permeteix estalviar molt de temps
+- Portable
+
+#### Evolució (Versions)
+- Py 0.9.0 S'inicia l'any 1991 
+- Py 1.0 - Gener de 1994 (Fins arribar a 1.6)
+- Py 2.0 - Octube de 2000 (Fins arribar 2.7)
+- Py 3.0 - Desembre de 2008 (Fins actual 3.10)
+
+Comentaris: la major part tenen subranques son actualitzacions i millorar el llenguatge, com per exemple 3.6.2 (3.6)
+
+#### IDE's
+- PyCharm
+- KDevelop
+- SlickEdit
+- Thonny
+- Visual Studio
 
 
+#### Webgrafia
+
+https://www.redalyc.org/pdf/1815/181531232001.pdf
+
+https://openwebinars.net/blog/que-es-python/
+
+
+
+#### Exemple de codi
 
 ```
 print ("hello world")
 ```
+
 ## JavaScript
-### info
+#### Evolució (Versions)
+#### IDE's
+#### Webgrafia
+#### Exemple de codi
+
 ## SQL
-### info
+#### Evolució (Versions)
+#### IDE's
+#### Webgrafia
+#### Exemple de codi
 
