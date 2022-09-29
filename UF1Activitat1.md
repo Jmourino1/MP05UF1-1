@@ -37,7 +37,7 @@ Els seus principis bàsics són:
 - Orientada a objectes
 
 #### Evolució (Versions)
-- Junio de 1991 – S'inicia el projecte de llenguatje JAVA
+- Juny de 1991 – S'inicia el projecte de llenguatje JAVA
 - JDK 1.0 – Gener de 1996
 - JDK 1.1 – Febrer de 1997
 - J2SE 1.2 – Desembre de 1998
@@ -65,6 +65,19 @@ Els seus principis bàsics són:
 - JCreator
 - jGRASP
 - Genuitc's MyEclipse
+- ...Entre altres
+
+#### Exemple de codi
+```
+public class HolaUser
+{
+    public static void main(String[] args)
+    {
+
+        System.out.println("Hello World");
+    }
+}
+```
 
 #### Webgrafia
 
