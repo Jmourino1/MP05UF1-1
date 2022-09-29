@@ -23,9 +23,7 @@ Podeu fer servir imatges rellevants
 
 ## Java
 
-
-El llenguatge Java va ser desen en el seus inicis por **James Gosling** l
-Java va ser creat per *Sun MicroSystems* l'any **1991** com una eina de programació per ser usada en un projecte de set-top-box en una petita operació anomenada the *Green Project*. El seu equip de desenvolupament va treballar per més de 18 mesos fins a aconseguir alliberar la primera versió estable.
+El llenguatge Java va ser desenvolupar en el seus inicis por *Sun MicroSystems* dirigit per **James Gosling** l'any 1991, com una eina de programació per ser usada en un projecte de set-top-box en una petita operació anomenada the *Green Project*. El seu equip de desenvolupament va treballar per més de 18 mesos fins a aconseguir alliberar la primera versió estable.
 
 Llenguatge de programació **orientada a objectes (POO)**: el programador pot generar fragments de codi autònom, que poden interactuar amb altres objectes, oferint suport a altres tecnologies.
 
@@ -36,18 +34,47 @@ Els seus principis bàsics són:
 - Multifil
 - Segur
 - Multiplataforma
-- Orientada a objects
+- Orientada a objectes
 
+#### Evolució (Versions)
+- Junio de 1991 – S'inicia el projecte de llenguatje JAVA
+- JDK 1.0 – Gener de 1996
+- JDK 1.1 – Febrer de 1997
+- J2SE 1.2 – Desembre de 1998
+- J2SE 1.3 – Maig de 2000
+- J2SE 1.4 – Febrer de 2002
+- J2SE 5.0 – Setembre de 2004
+- Java SE 6 – Desembre de 2006
+- Java SE 7 – Juliol de 2011
+- Java SE 8 – Març de 2014
+- Java SE 9 – Juliol de 2017
+- Java SE 10 – Març de 2018
+- Java SE 11 – Setembre de 2018
+- Java SE 12 – Març de 2018
+- Java SE 15 – Setembre de 2020
+- Java SE 16 – Març de 2021
+- Java SE 17 – Setembre de 2021
+- Java SE 18 – Març de 2022
 
+#### IDE's
+- IntelliJ IDEA
+- Eclipse IDE
+- Apache NetBeans
+- Oracle JDevoloper
+- BlueJ
+- JCreator
+- jGRASP
+- Genuitc's MyEclipse
 
-E
-
-Webgrafia
+#### Webgrafia
 
 https://ca.wikipedia.org/wiki/Java_(llenguatge_de_programaci%C3%B3)
 
 https://openwebinars.net/blog/que-es-java/
 
+https://javadesdecero.es/fundamentos/breve-historia-caracteristicas-y-aplicaciones/
+
+https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)
 
 
 ## Python
