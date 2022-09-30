@@ -149,13 +149,20 @@ Es tracta d'un llenguatge de programació que permet fer accions de diversos gra
 
 A dia d'avui, és el llenguatge en què es desenvolupa una pàgina web quan els mecanismes que es volen implantar tanquen un major nivell de dificultat dels que se solen plantejar sovint. Però, abans de continuar parlant de l'actualitat de JavaScript, farem un breu retorn al passat per entendre quines circumstàncies van donar origen a aquest llenguatge de programació. És un llengutage compilat.
 
-#### Evolució (Versions)
-
 - És un llenguatge molt sencill
 - És ràpid
 - Compta amb múltiples funcions visuals
 - Comptabilitat amb els navegadors, incloent navegador natiu per Android e IOS
 - És una bona solució per posar en pràctica la validació de dades en un formularis 
+
+#### Evolució (Versions)
+
+- Mocha o LiveScrip - 1995
+- JavaScript 1.2 - 1997
+- JavaScript 1.3 - 1998
+- JavaScript 1.5 - 2000
+- JavaScript 1.8.5 - 2010
+- ECMA-262 - 2020
 
 #### IDE's
 
@@ -169,6 +176,10 @@ A dia d'avui, és el llenguatge en què es desenvolupa una pàgina web quan els 
 #### Webgrafia
 
 https://openwebinars.net/blog/que-es-javascript/
+
+https://lineadecodigo.com/javascript/hola-mundo-en-javascript/
+
+https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=817:versiones-de-javascript-diferencia-con-ecmascript-262-o-isoiec-especificacion-oficial-historia-cu01137e&catid=78&Itemid=206
 
 #### Exemple de codi
 
@@ -189,8 +200,51 @@ https://openwebinars.net/blog/que-es-javascript/
 ````
 
 # SQL
+
+![SQL](https://user-images.githubusercontent.com/113586156/193360567-28be535c-fb46-47d8-9616-f6276f9622dc.jpg)
+
+Els orígens de l'SQL ens porten a la dècada de 1970, quan als laboratoris d'IBM, es va crear el nou programari de base de dades System R. I per gestionar les dades emmagatzemades a System R, es va crear el llenguatge SQL. Al principi es va anomenar SEQUEL, un nom que encara s'utilitza com una pronunciació alternativa per a SQL, però més tard va ser renomeado a només SQL.
+
+El 1979, una companyia anomenada Relational Software, que després es va convertir en Oracle, va veure el potencial comercial del llenguatge SQL i va llançar la seva pròpia versió modificada, denominada Oracle V2.
+
+Ara en la tercera dècada d'existència, el llenguatge SQL ofereix una gran flexibilitat als usuaris suportant bases de dades distribuïdes, és a dir, bases de dades que es poden executar en diverses xarxes d'ordinadors alhora. Certificat per ANSI i ISO, el llenguatge SQL s'ha convertit en un estàndard de llenguatge de consulta de base de dades.
+
+Amb l'avenç en la tecnologia de base de dades d'aplicacions basades en SQL s'ha tornat cada cop més assequible per a l'usuari normal. Això és degut a la introducció de diverses solucions de bases de dades SQL de codi obert com MySQL, PostgreSQL, SQLite, Firebird, i molts més.
+
+Es un llenguatge interpretat.
+
+- Integritat en les dades
+- Llenguatge estandaritzat
+- Senzillesa i claredat
+- Flexibilitat
+- 
 #### Evolució (Versions)
+
+- SQL Server 1-0 - 1989
+- SQL Server 4.21 - 1993
+- SQL Server 6-0 - 1995
+- SQL Server 6-5 - 1996
+- SQL Server 7-0 - 1998
+- SQL Server 7-0 OLAP TOOLS - 1999
+- SQL Server 2000 - 2000
+- SQL Server 2000 64bit Edition - 2003
+- SQL Server 2005 - 2005
+- SQL Server 2008 - 2008
+- SQL Azure DB - 2010
+- SQL Server 2008 R2 - 2010
+- SQL Server 2012 - 2012
+- SQL Server 2016 - 2016
+- SQL Server 2017 - 2017
 #### IDE's
+
+
 #### Webgrafia
+
+https://www.universidadviu.com/es/actualidad/nuestros-expertos/lenguaje-sql-historia-y-conceptos-basicos
+
+https://www.ediciones-eni.com/open/mediabook.aspx?idR=5d49b668145331b8c3e4da388e9e7eed
+
+https://ca.wikipedia.org/wiki/Microsoft_SQL_Server
+
 #### Exemple de codi
 
