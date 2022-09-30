@@ -145,7 +145,11 @@ print ("hello world")
 #### Evolució (Versions)
 #### IDE's
 #### Webgrafia
+
+https://openwebinars.net/blog/que-es-javascript/
+
 #### Exemple de codi
+
 
 # SQL
 #### Evolució (Versions)
