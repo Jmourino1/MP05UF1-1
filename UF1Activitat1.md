@@ -1,33 +1,10 @@
-D'aquests llenguatges heu de comentar obligatòriament els següents aspectes:
-Naixement, creadors i evolució històrica.
-Cracterístiques del llenguatge.
-◦ Imperatiu, declaratiu, OOP...
-◦ Compilat, interpretat, híbrid...
-◦ Principals novetats o aportacions respecte altres llenguatges.
-◦ Avantatges i inconvenients respecte altres llenguatges.
-• Principals entorns on es fa servir el llenguatge. 
-Exemple de codi (valoraré especialment si mostreu que ho heu implementat i
-provat)
-◦ Hola mòn (Molt fàcil de trobar)
-◦ Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més)
-• Buscar com estan les ofertes de treball a Infojobs del llenguatge.
-• WebGrafia
-Valoraré molt especialment que feu un treball personal, i que no us limiteu a
-enganxar informació trobada a Internet.
-Intenteu entendre els termes tècnics que feu servir, i si teniu algun dubte podeu
-preguntar.
-No serveix de res fer un treball que no entengueu vosaltres mateixos.
-L’aspecte en un treball sempre és important.
-Intenteu ser una mica polits, i sobretot, doneu un repàs a les faltes d'ortografia.
-Podeu fer servir imatges rellevants
-
 # Java
 
 ![image](https://user-images.githubusercontent.com/113586156/193156130-359e42b1-bd7c-4950-9011-b23d470bab3c.png)
 
 El llenguatge Java va ser desenvolupar en el seus inicis por *Sun MicroSystems* dirigit per **James Gosling** l'any 1991, com una eina de programació per ser usada en un projecte de set-top-box en una petita operació anomenada the *Green Project*. El seu equip de desenvolupament va treballar per més de 18 mesos fins a aconseguir alliberar la primera versió estable.
 
-Llenguatge de programació **orientada a objectes (POO)**: el programador pot generar fragments de codi autònom, que poden interactuar amb altres objectes, oferint suport a altres tecnologies. Potser compilat e interpretat.
+Llenguatge de programació **orientada a objectes (POO)**: el programador pot generar fragments de codi autònom, que poden interactuar amb altres objectes, oferint suport a altres tecnologies. **Potser compilat e interpretat.**
 
 Com a curiositat, dir que no és clar l'origen del nom encara que es creu que es podria tractar de les inicials dels seus dissenyadors: James Gosling, Arthur Van Hoff, i Andy Bechtolsheim. La hipòtesi que té més força és la que Java deu el seu nom a un tipus de cafè disponible a la cafeteria propera; per això la icona de Java és una tassa de cafè calent.
 
@@ -94,9 +71,11 @@ https://geekflare.com/es/mejores-compiladores-ide-y-en-l%C3%ADnea-de-java/
 
 # Python
 
+![python](https://user-images.githubusercontent.com/113586156/193360921-ec3317ed-c19e-4f43-a04a-bb05fe498199.jpg)
+
 Python va néixer a principis dels 90`s i, en un inici va ser desenvolupat com un hobby per Guido Van Rossum, un enginyer holandès que treballava en aquell moment al CWI d'Amsterdam, el Centre de Recerca de Ciències de la Computació holandès i com a curiositat el nom triat, Python, va ser pres del grup còmic britànic Monty Python, del qual Guido era un gran fan.
 
-És un llenguatge de programació versàtil multiplataforma i multiparadigma que es destaca pel codi llegible i net. Una de les raons del seu èxit és que compta amb una llicència de codi obert que permet la seva utilització a qualsevol escenari. Això fa que sigui un dels llenguatges diniciació de molts programadors. Es un llenguatge interpretat.
+És un llenguatge de programació versàtil multiplataforma i multiparadigma que es destaca pel codi llegible i net. Una de les raons del seu èxit és que compta amb una llicència de codi obert que permet la seva utilització a qualsevol escenari. Això fa que sigui un dels llenguatges diniciació de molts programadors. **Es un llenguatge interpretat.**
 
 
 Els seus **principis bàscis**:
@@ -147,7 +126,7 @@ print ("hello world")
 
 Es tracta d'un llenguatge de programació que permet fer accions de diversos graus de complexitat en llocs web sense necessitat de compilació. El fet que els mateixos navegadors llegeixin i assimilin el codi per efectuar les instruccions indicades per aquest, ha convertit JavaScript en un llenguatge de programació molt utilitzat i apreciat pels desenvolupadors.
 
-A dia d'avui, és el llenguatge en què es desenvolupa una pàgina web quan els mecanismes que es volen implantar tanquen un major nivell de dificultat dels que se solen plantejar sovint. Però, abans de continuar parlant de l'actualitat de JavaScript, farem un breu retorn al passat per entendre quines circumstàncies van donar origen a aquest llenguatge de programació. És un llengutage compilat.
+A dia d'avui, és el llenguatge en què es desenvolupa una pàgina web quan els mecanismes que es volen implantar tanquen un major nivell de dificultat dels que se solen plantejar sovint. Però, abans de continuar parlant de l'actualitat de JavaScript, farem un breu retorn al passat per entendre quines circumstàncies van donar origen a aquest llenguatge de programació. **És un llengutage compilat.**
 
 - És un llenguatge molt sencill
 - És ràpid
@@ -211,7 +190,7 @@ Ara en la tercera dècada d'existència, el llenguatge SQL ofereix una gran flex
 
 Amb l'avenç en la tecnologia de base de dades d'aplicacions basades en SQL s'ha tornat cada cop més assequible per a l'usuari normal. Això és degut a la introducció de diverses solucions de bases de dades SQL de codi obert com MySQL, PostgreSQL, SQLite, Firebird, i molts més.
 
-Es un llenguatge interpretat.
+**Es un llenguatge interpretat.**
 
 - Integritat en les dades
 - Llenguatge estandaritzat
@@ -235,8 +214,14 @@ Es un llenguatge interpretat.
 - SQL Server 2012 - 2012
 - SQL Server 2016 - 2016
 - SQL Server 2017 - 2017
+
 #### IDE's
 
+- phpMyAdmin
+- SQLyog
+- DBEdit
+- DBeaver
+- Orbada
 
 #### Webgrafia
 
@@ -246,5 +231,24 @@ https://www.ediciones-eni.com/open/mediabook.aspx?idR=5d49b668145331b8c3e4da388e
 
 https://ca.wikipedia.org/wiki/Microsoft_SQL_Server
 
+https://pandorafms.com/blog/es/software-libre-sql/
+
+https://geotalleres.readthedocs.io/es/latest/conceptos-sql/conceptos_sql.html
+
 #### Exemple de codi
 
+```
+# CREATE TABLE Empleado
+(
+id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+Nombre VARCHAR(50),
+Apellido VARCHAR(50),
+Direccion VARCHAR(255),
+Ciudad VARCHAR(60),
+Telefono VARCHAR(15),
+Peso VARCHAR (5),
+Edad (2),
+Actividad Específica (100),
+idCargo INT
+)
+```
