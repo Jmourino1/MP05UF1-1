@@ -142,14 +142,51 @@ print ("hello world")
 ```
 
 # JavaScript
+
+![Javascript](https://user-images.githubusercontent.com/113586156/193356460-e6880aad-76d8-44f0-ab0f-89237ee01657.jpeg)
+
+Es tracta d'un llenguatge de programació que permet fer accions de diversos graus de complexitat en llocs web sense necessitat de compilació. El fet que els mateixos navegadors llegeixin i assimilin el codi per efectuar les instruccions indicades per aquest, ha convertit JavaScript en un llenguatge de programació molt utilitzat i apreciat pels desenvolupadors.
+
+A dia d'avui, és el llenguatge en què es desenvolupa una pàgina web quan els mecanismes que es volen implantar tanquen un major nivell de dificultat dels que se solen plantejar sovint. Però, abans de continuar parlant de l'actualitat de JavaScript, farem un breu retorn al passat per entendre quines circumstàncies van donar origen a aquest llenguatge de programació. És un llengutage compilat.
+
 #### Evolució (Versions)
+
+- És un llenguatge molt sencill
+- És ràpid
+- Compta amb múltiples funcions visuals
+- Comptabilitat amb els navegadors, incloent navegador natiu per Android e IOS
+- És una bona solució per posar en pràctica la validació de dades en un formularis 
+
 #### IDE's
+
+- RJ TectEd
+- Light Table
+- Netbeans
+- Brackets
+- Komodo Edit
+- Visual Studio Code
+
 #### Webgrafia
 
 https://openwebinars.net/blog/que-es-javascript/
 
 #### Exemple de codi
 
+```
+<html>
+  <head>
+    <title>Mi primer codigo JavaScript</title>
+  </head>
+  <body>
+    <h1>Mi primer código JavaScript</h1>
+
+    <script>
+      document.write("Hola Mundo");
+    </script>
+
+  </body>
+</html>
+````
 
 # SQL
 #### Evolució (Versions)
