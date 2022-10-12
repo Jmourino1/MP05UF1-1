@@ -2,9 +2,37 @@
 
 ### Grup: Javier Mouriño y Byron Cobos
 
-![C++](https://user-images.githubusercontent.com/113586156/195350954-6709607c-7921-4cee-998d-21a73a59ad4d.png)
+
 
 #### Per al llenguatge compilat:
+
+```
+
+#include <iostream>
+#include <cstdlib>
+#include "time.h"
+
+int Droll()
+{
+    int outcome;
+    int l_limit = 1;  // floor or lower limit of a die
+    int h_limit = 6; //ceiling or higher limit of a die
+
+    outcome = rand() % (h_limit - l_limit + 1) + l_limit;
+
+    return outcome;
+}
+
+int main()
+{
+    srand(time(0));
+    for(int i=0;i<1;i++)
+    {
+        std::cout << Droll() << std::endl;
+    }
+}
+
+```
 
 - Utilitzant la línia de comandes, sense utilitzar un IDE de desenvolupament escriureu el programa en un fitxer de text que sigui el codi font, el codi font l’adjunteu dins el document. 
 
