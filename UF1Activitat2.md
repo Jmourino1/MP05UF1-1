@@ -1,12 +1,12 @@
 # Activitat 2 - Pràctica amb llenguatges
 
-### Grup: Javier Mouriño y Byron Cobos
+## Grup: Javier Mouriño y Byron Cobos
 
 
 
-#### Per al llenguatge compilat:
+### Per al llenguatge compilat:
 
-- Utilitzant la línia de comandes, sense utilitzar un IDE de desenvolupament escriureu el programa en un fitxer de text que sigui el codi font, el codi font l’adjunteu dins el document. 
+**Utilitzant la línia de comandes, sense utilitzar un IDE de desenvolupament escriureu el programa en un fitxer de text que sigui el codi font, el codi font l’adjunteu dins el document.**
 
 ```
 
@@ -35,16 +35,21 @@ int main()
 }
 
 ```
-![image](https://user-images.githubusercontent.com/113586156/195358732-f27ef4e6-0062-45dc-aeab-ae851906e2b6.png)
-
-- Identifiqueu el compilador real que utilitzeu (nom de l’executable) i la comanda per utilitzar-lo per passar de codi font a codi objecte. 
-
-Instalará el compilador GCC altres eines de desenvolupament.
+Instalará el **compilador GCC** altres eines de desenvolupament.
 “La GNU Compiler Collection és un conjunt de recopiladors de llenguatges de programació creat pel Projecte GNU. Així doncs, és programari lliure distribuït per la Free Software Foundation sota la llicència GNU General Public License”
 
+![image](https://user-images.githubusercontent.com/113586156/195358732-f27ef4e6-0062-45dc-aeab-ae851906e2b6.png)
 
-- Descriviu com passar de codi font a codi objecte. 
-- 
+![image](https://user-images.githubusercontent.com/113586156/195361555-0333f24b-6b38-4377-97f0-b8402b4f9d2c.png)
+
+**Identifiqueu el compilador real que utilitzeu (nom de l’executable) i la comanda per utilitzar-lo per passar de codi font a codi objecte.** 
+
+![image](https://user-images.githubusercontent.com/113586156/195362055-de5f0b9b-dced-45ed-bc20-a455eb6a2eec.png)
+
+**Descriviu com passar de codi font a codi objecte.** 
+
+Utilizem les comandes g++ -o d6 d6.cpp (
+ 
 - Mostreu les extensions dels fitxers de codi font i codi objecte. 
 
 - Descriviu com passar de codi objecte a executable. 
@@ -53,7 +58,7 @@ Instalará el compilador GCC altres eines de desenvolupament.
 
 -Busqueu 3 IDEs de desenvolupament pel llenguatge.
 
-#### Per al llenguatge interpretat:
+### Per al llenguatge interpretat:
 
 - Utilitzant la línia de comandes, sense utilitzar un IDE de desenvolupament escriureu el programa en un fitxer de text que sigui el codi font, el codi font l’adjunteu dins el document.
 
@@ -70,7 +75,7 @@ Instalará el compilador GCC altres eines de desenvolupament.
 
 
 
-#### Per al llenguatge de MV: 
+### Per al llenguatge de MV: 
 - Utilitzant la línia de comandes, sense utilitzar un IDE de desenvolupament escriureu el programa en un fitxer de text que sigui el codi font, el codi font l’adjunteu dins el document. 
 
 - Identifiqueu el compilador real (nom d’executable) que utilitzeu i la comanda per utilitzar-lo per passar de codi font a ByteCode. 
