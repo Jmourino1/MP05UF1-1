@@ -1,8 +1,10 @@
 # Activitat 2 - Pràctica amb llenguatges
 
-Grup: Javier Mouriño y Byron Cobos
+### Grup: Javier Mouriño y Byron Cobos
 
-Per al llenguatge compilat:
+![C++](https://user-images.githubusercontent.com/113586156/195350954-6709607c-7921-4cee-998d-21a73a59ad4d.png)
+
+#### Per al llenguatge compilat:
 
 - Utilitzant la línia de comandes, sense utilitzar un IDE de desenvolupament escriureu el programa en un fitxer de text que sigui el codi font, el codi font l’adjunteu dins el document. 
 
