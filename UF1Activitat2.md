@@ -4,7 +4,7 @@
 
 
 
-### Per al llenguatge compilat:
+### Per al llenguatge compilat: C++
 
 **Utilitzant la línia de comandes, sense utilitzar un IDE de desenvolupament escriureu el programa en un fitxer de text que sigui el codi font, el codi font l’adjunteu dins el document.**
 
@@ -35,6 +35,7 @@ int main()
 }
 
 ```
+
 Instalará el **compilador GCC** altres eines de desenvolupament.
 “La GNU Compiler Collection és un conjunt de recopiladors de llenguatges de programació creat pel Projecte GNU. Així doncs, és programari lliure distribuït per la Free Software Foundation sota la llicència GNU General Public License”
 
@@ -48,45 +49,60 @@ Instalará el **compilador GCC** altres eines de desenvolupament.
 
 **Descriviu com passar de codi font a codi objecte.** 
 
-Utilizem les comandes g++ -o d6 d6.cpp (
+Utilizem les comandes g++ -o d6 d6.cpp (d6.cpp --> es el nostre codi font)(d6 --> serà el nostre .exe)
  
-- Mostreu les extensions dels fitxers de codi font i codi objecte. 
+**Mostreu les extensions dels fitxers de codi font i codi objecte. **
 
-- Descriviu com passar de codi objecte a executable. 
+.cpp i .exe
 
-- Expliqueu els avantatges d’utilitzar un llenguatge compilat i els punts febles. 
+**Descriviu com passar de codi objecte a executable.**
 
--Busqueu 3 IDEs de desenvolupament pel llenguatge.
+**Expliqueu els avantatges d’utilitzar un llenguatge compilat i els punts febles.**
 
-### Per al llenguatge interpretat:
+**Busqueu 3 IDEs de desenvolupament pel llenguatge.**
 
-- Utilitzant la línia de comandes, sense utilitzar un IDE de desenvolupament escriureu el programa en un fitxer de text que sigui el codi font, el codi font l’adjunteu dins el document.
+**Webgrafia**
 
-- Identifiqueu l'intèrpret del llenguatge (l’executable). 
+https://hetpro-store.com/TUTORIALES/compilar-cpp-g-linux-en-terminal-leccion-1/
 
-- Descriviu com funciona l’intèrpret. 
+https://www.delftstack.com/es/howto/cpp/cpp-dice-roll/
 
-- Mostreu les extensions dels fitxers de codi font. 
+https://www.onlinegdb.com/fork/H1TLQdVSU
 
-- Expliqueu els avantatges d’utilitzar un llenguatge interpretat i els punts febles. 
+https://ca.wikipedia.org/wiki/GNU_Compiler_Collection
 
-- Busqueu 3 IDEs de desenvolupament pel llenguatge. 
+### Per al llenguatge interpretat: Python
+
+**Utilitzant la línia de comandes, sense utilitzar un IDE de desenvolupament escriureu el programa en un fitxer de text que sigui el codi font, el codi font l’adjunteu dins el document.**
+
+**Identifiqueu l'intèrpret del llenguatge (l’executable).**
+
+**Descriviu com funciona l’intèrpret.**
+
+**Mostreu les extensions dels fitxers de codi font.**
+
+**Expliqueu els avantatges d’utilitzar un llenguatge interpretat i els punts febles.** 
+
+**Busqueu 3 IDEs de desenvolupament pel llenguatge.**
+
+**Webgrafia**
 
 
+### Per al llenguatge de MV: Java
 
+**Utilitzant la línia de comandes, sense utilitzar un IDE de desenvolupament escriureu el programa en un fitxer de text que sigui el codi font, el codi font l’adjunteu dins el document.**
 
-### Per al llenguatge de MV: 
-- Utilitzant la línia de comandes, sense utilitzar un IDE de desenvolupament escriureu el programa en un fitxer de text que sigui el codi font, el codi font l’adjunteu dins el document. 
+**Identifiqueu el compilador real (nom d’executable) que utilitzeu i la comanda per utilitzar-lo per passar de codi font a ByteCode.**
 
-- Identifiqueu el compilador real (nom d’executable) que utilitzeu i la comanda per utilitzar-lo per passar de codi font a ByteCode. 
+**Descriviu com passar de codi font a ByteCode.** 
 
-- Descriviu com passar de codi font a ByteCode. 
+**Mostreu les extensions dels fitxers de codi font i ByteCode.**
 
-- Mostreu les extensions dels fitxers de codi font i ByteCode. 
+**Descriviu com executar el programa.**
 
-- Descriviu com executar el programa. 
+**Expliqueu els avantatges d’utilitzar un llenguatge de MV i els punts febles.**
 
-- Expliqueu els avantatges d’utilitzar un llenguatge de MV i els punts febles. 
+**Busqueu 3 IDEs de desenvolupament pel llenguatge.**
 
-- Busqueu 3 IDEs de desenvolupament pel llenguatge. 
+**Webgrafia**
 
