@@ -2,8 +2,6 @@
 
 ## Grup: Javier Mouriño y Byron Cobos
 
-
-
 ### Per al llenguatge compilat: C++
 
 **Utilitzant la línia de comandes, sense utilitzar un IDE de desenvolupament escriureu el programa en un fitxer de text que sigui el codi font, el codi font l’adjunteu dins el document.**
@@ -41,21 +39,26 @@ Instalará el **compilador GCC** altres eines de desenvolupament.
 
 ![image](https://user-images.githubusercontent.com/113586156/195358732-f27ef4e6-0062-45dc-aeab-ae851906e2b6.png)
 
-![image](https://user-images.githubusercontent.com/113586156/195361555-0333f24b-6b38-4377-97f0-b8402b4f9d2c.png)
-
 **Identifiqueu el compilador real que utilitzeu (nom de l’executable) i la comanda per utilitzar-lo per passar de codi font a codi objecte.** 
 
-![image](https://user-images.githubusercontent.com/113586156/195362055-de5f0b9b-dced-45ed-bc20-a455eb6a2eec.png)
+
+![image](https://user-images.githubusercontent.com/113586156/195361555-0333f24b-6b38-4377-97f0-b8402b4f9d2c.png)
 
 **Descriviu com passar de codi font a codi objecte.** 
 
-Utilizem les comandes g++ -o d6 d6.cpp (d6.cpp --> es el nostre codi font)(d6 --> serà el nostre .exe)
+Al terminal executem la comanda nano per obrir un editor de text a la mateixa consola, on hi guardarem el nostre codi font (.txt) en objecte (.cpp) .
  
-**Mostreu les extensions dels fitxers de codi font i codi objecte. **
+**Mostreu les extensions dels fitxers de codi font i codi objecte.**
 
-.cpp i .exe
+![image](https://user-images.githubusercontent.com/113586156/195370216-a6c9c5b5-0604-402d-b4c6-5defc53ab09c.png)
+
+.txt i .cpp
 
 **Descriviu com passar de codi objecte a executable.**
+
+![image](https://user-images.githubusercontent.com/113586156/195362055-de5f0b9b-dced-45ed-bc20-a455eb6a2eec.png)
+
+Utilizem les comandes g++ -o d6 d6.cpp (d6.cpp --> es el nostre codi objecte)(d6 --> serà el nostre .exe)
 
 **Expliqueu els avantatges d’utilitzar un llenguatge compilat i els punts febles.**
 
