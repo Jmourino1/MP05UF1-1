@@ -103,9 +103,32 @@ https://ca.wikipedia.org/wiki/GNU_Compiler_Collection
 
 **Descriviu com executar el programa.**
 
+- En el Panel de Control de Java, fer clic en el separador Seguretat.
+- Seleccionar l’opció Activar el contingut Java en el explorador.
+- Fer clic en Aplicar i, després, en Aceptar per a confirmar els canvis.
+- Reiniciar l’explorador per a activar els canvis.
+
+
 **Expliqueu els avantatges d’utilitzar un llenguatge de MV i els punts febles.**
+
+Pros:
+- Millora en aspectes de seguretat.
+- Capaç de detectar el malware.
+- Menys components de Hardware.
+ 
+Contres:
+- Complexitat elevada.
+- Caro.
+- Menys eficient.
 
 **Busqueu 3 IDEs de desenvolupament pel llenguatge.**
 
+- VirtualBox.
+- Wineskin Winery.
+- VMWare Workstation.
+
 **Webgrafia**
+
+https://aprendiendoaprogramar.es/blog/ventajas-y-desventajas-de-la-maquina-virtual/
+https://www.adslzone.net/listas/mejores-programas/maquinas-virtuales/
 
